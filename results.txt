@@ -1,0 +1,45 @@
+CNN-based
+1-Step Prediction MSE:
+Training MSE: 0.003654
+Testing MSE: 0.112726
+
+100-Step Prediction MSE:
+Training MSE: nan
+Testing MSE: nan
+
+R^2 Scores:
+Training R^2: 0.9571
+Testing R^2: -1.8648
+
+RMSE Scores:
+Training RMSE: 0.0605
+Testing RMSE: 0.3357
+
+Healing Efficiency Metrics:
+Training L2 Loss: 82.22
+Testing L2 Loss: 2536.33
+Training Terminal Error (%): 14.08
+Testing Terminal Error (%): 19.42
+
+Resnet
+1-Step Prediction MSE:
+Training MSE: 0.075250
+Testing MSE: 0.034954
+
+100-Step Prediction MSE:
+Training MSE: nan
+Testing MSE: nanl
+
+R^2 Scores:
+Training R^2: 0.1157
+Testing R^2: 0.1117
+
+RMSE Scores:
+Training RMSE: 0.2743
+Testing RMSE: 0.1870
+
+Healing Efficiency Metrics:
+Training L2 Loss: 1693.13
+Testing L2 Loss: 786.47
+Training Terminal Error (%): 7.83
+Testing Terminal Error (%): 28.10
