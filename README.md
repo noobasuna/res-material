@@ -1,4 +1,4 @@
-# Resnet-like Architecture for Self-Healing Material
+# Resnet-like Architecture for Toughness Prediction for Self-Healing Material
 ## Overview
 
 We advance this with a residual neural network (ResNet) architecture, to show that the proposed solution is generalized across different models. We chose ResNet because it is a lightweight feature extraction model often used in various tasks and is an advancement from the more conventional CNN. For this tailored model, only 400 epochs were performed to prevent overfitting, which also demonstrates the lower computational cost compared to the baseline CNN model.
